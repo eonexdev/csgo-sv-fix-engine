@@ -1,3 +1,6 @@
+PLEASE NOTE: AS OF RIGHT NOW THIS FIX DOESNT WORK ON SERVERS WHICH ARE HOSTED ON WINDOWS. SOON FIX
+
+
 ! Please share this post with people who are hosting a CS:GO server and want to fix this issue !
 
 If you have a CS:GO (NOT CS2) server, users can't join your server IF they are using the archived version of CS:GO (app/4465480/CounterStrike_Global_Offensive/).
