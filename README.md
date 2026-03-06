@@ -31,8 +31,7 @@ Download the extension and drop these files into your server:
     addons/sourcemod/extensions/csgo_steamfix.ext.so       <- Linux
     addons/sourcemod/extensions/csgo_steamfix.ext.dll      <- Windows
     
-    addons/sourcemod/extensions/csgo_steamfix.autoload     <- auto-load trigger (empty file) [no clue if it requires .ext or no XD]
-    addons/sourcemod/extensions/csgo_steamfix.ext.autoload <- auto-load trigger (empty file)
+    addons/sourcemod/extensions/csgo_steamfix.autoload     <- auto-load trigger (empty file)
 
 The extension loads automatically on server start, patches the engine, and
 **restores the original state on unload**. (Works on both Linux and Windows)
